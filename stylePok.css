@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+    background-image: url(imagens/uma-nova-jornada-pokemon.png);
+    overflow: visible;
+    background-size: 100%;
+    background-origin: content-box;
+    background-position: unset;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.figuras {
+    align-items: center;
+    display: flex;
+    overflow-y: auto;
+}  
+
+#top {
+    text-align: center;
+}
